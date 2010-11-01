@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.netbeans.plugin.nbpgraph
+OpenIDE-Module-Layer: org/netbeans/plugin/nbpgraph/layer.xml
+OpenIDE-Module-Localizing-Bundle: org/netbeans/plugin/nbpgraph/Bundle.properties
+OpenIDE-Module-Specification-Version: 0.1
+

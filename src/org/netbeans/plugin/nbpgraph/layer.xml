@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.1//EN" "http://www.netbeans.org/dtds/filesystem-1_1.dtd">
+<filesystem>
+    <folder name="Actions">
+        <folder name="SomeFolder">
+            <file name="org-netbeans-plugin-nbpgraph-NbpGraphAction.instance"/>
+        </folder>
+    </folder>
+    <folder name="Projects">
+        <folder name="Actions">
+            <file name="oorg-netbeans-plugin-nbpgraph-DotAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/SomeFolder/org-netbeans-plugin-nbpgraph-NbpGraphAction.instance"/>
+            </file>
+        </folder>
+    </folder>
+
+</filesystem>
